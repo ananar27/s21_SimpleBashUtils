@@ -1,4 +1,5 @@
-# Simple Bash Utils
+# This is an implementation of Simple Bash Utils by me.
+## The code is clumsy and untidy, I mostly keep it here to remember how awful everything was at the beginning, so use it at your own risk.
 
 Development of Bash text utilities: cat, grep.
 
